@@ -1,7 +1,7 @@
 # Stock-Production-Planning
 
 ## Description
-This project is to know the production quantity you need to replenish your monthly stock :relaxed::+1:
+This project is to know the production quantity you need to replenish your monthly stock 
 
 ## :bulb:How It Works
 :one: enter the initial stock.
