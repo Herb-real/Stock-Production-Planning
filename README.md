@@ -18,3 +18,5 @@ The model will then indicate when you will be expected to start production and h
 &nbsp;
 ![Screenshot of result](./Screenshots/Stock_Production_Result.png)
 
+## Author
+Herbert DJANIE
